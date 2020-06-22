@@ -23,7 +23,7 @@
 # https://laracasts.com/
 # https://www.reddit.com/r/Python/comments/gd8cze/i_made_this_robust_instagram_bot_that_checks_whos/
 # https://www.reddit.com/r/Python/search?q=flair_name%3A%22I%20Made%20This%22&restrict_sr=1
-# 
+# https://hackernoon.com/top-5-free-online-courses-to-learn-html-css-web-development-in-2020-ae8e7466dfa7
 # 
 # 
 # 
